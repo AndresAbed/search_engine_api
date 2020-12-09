@@ -1,0 +1,198 @@
+{
+  "webPages":{
+    "value":[
+      {
+        "id":"https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "contractualRules":[
+          {
+            "_type":"ContractualRules/LicenseAttribution",
+            "targetPropertyName":"snippet",
+            "targetPropertyIndex":0,
+            "mustBeCloseToContent":true,
+            "license":{
+              "name":"CC-BY-SA",
+              "url":"http://creativecommons.org/licenses/by-sa/3.0/",
+              "urlPingSuffix":"DevEx,5458.1"
+            },
+            "licenseNotice":"Texto bajo la licencia CC-BY-SA"
+          }
+        ],
+        "name":"Software development - Wikipedia",
+        "url":"https://en.wikipedia.org/wiki/Software_development",
+        "urlPingSuffix":"DevEx,5080.1",
+        "isFamilyFriendly":true,
+        "displayUrl":"https://en.wikipedia.org/wiki/Software_development",
+        "snippet":"Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components.Software development is a process of writing and maintaining the source code, but in a broader sense, it includes all that is involved between the conception of the desired ...",
+        "dateLastCrawled":"2020-12-05T01:09:00.0000000Z",
+        "fixedPosition":false,
+        "language":"en",
+        "isNavigational":false
+      },
+      {
+        "id":"https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name":"What is software development? | IBM",
+        "url":"https://www.ibm.com/topics/software-development",
+        "urlPingSuffix":"DevEx,5093.1",
+        "isFamilyFriendly":true,
+        "displayUrl":"https://www.ibm.com/topics/software-development",
+        "snippet":"Software development is important because it helps businesses differentiate themselves and be more competitive. It can improve customer experiences, bring more innovative, feature-rich products to market faster, and make operations more efficient, safe and productive. Software development is also important because it is pervasive.",
+        "dateLastCrawled":"2020-12-06T10:33:00.0000000Z",
+        "openGraphImage":{
+          "contentUrl":"https://1.cms.s81c.com/sites/default/files/2018-10-15/digital_binary_data_0.jpg",
+          "width":0,
+          "height":0
+        },
+        "fixedPosition":false,
+        "language":"en",
+        "isNavigational":false
+      },
+      {
+        "id":"https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "contractualRules":[
+          {
+            "_type":"ContractualRules/LicenseAttribution",
+            "targetPropertyName":"snippet",
+            "targetPropertyIndex":2,
+            "mustBeCloseToContent":true,
+            "license":{
+              "name":"CC-BY-SA",
+              "url":"http://creativecommons.org/licenses/by-sa/3.0/",
+              "urlPingSuffix":"DevEx,5460.1"
+            },
+            "licenseNotice":"Texto bajo la licencia CC-BY-SA"
+          }
+        ],
+        "name":"Software development process - Wikipedia",
+        "url":"https://en.wikipedia.org/wiki/Software_development_process",
+        "urlPingSuffix":"DevEx,5107.1",
+        "isFamilyFriendly":true,
+        "displayUrl":"https://en.wikipedia.org/wiki/Software_development_process",
+        "snippet":"In software engineering, a software development process is the process of dividing software development work into distinct phases to improve design, product management, and project management.It is also known as a software development life cycle (SDLC).The methodology may include the pre-definition of specific deliverables and artifacts that are created and completed by a project team to ...",
+        "dateLastCrawled":"2020-12-07T16:28:00.0000000Z",
+        "fixedPosition":false,
+        "language":"en",
+        "isNavigational":false
+      },
+      {
+        "id":"https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name":"What is software development? - Definition from WhatIs.com",
+        "url":"https://whatis.techtarget.com/definition/software-development",
+        "urlPingSuffix":"DevEx,5121.1",
+        "isFamilyFriendly":true,
+        "displayUrl":"https://whatis.techtarget.com/definition/software-development",
+        "snippet":"Software development is the collective processes involved in creating software programs, embodying all the stages throughout the systems development life cycle ().SDLC methodologies support the design of software to meet a business need, the development of software to meet the specified design and the deployment of software to production.",
+        "dateLastCrawled":"2020-12-06T10:19:00.0000000Z",
+        "openGraphImage":{
+          "contentUrl":"https://cdn.ttgtmedia.com/ITKE/images/logos/TTlogo-379x201.png",
+          "width":0,
+          "height":0
+        },
+        "fixedPosition":false,
+        "language":"en",
+        "isNavigational":false
+      },
+      {
+        "id":"https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name":"Free Open Source Software Development Software",
+        "url":"https://sourceforge.net/directory/development/development/",
+        "urlPingSuffix":"DevEx,5134.1",
+        "datePublished":"2016-07-20T00:00:00.0000000",
+        "datePublishedDisplayText":"20/7/2016",
+        "isFamilyFriendly":true,
+        "displayUrl":"https://sourceforge.net/directory/development",
+        "snippet":"Compare the best free open source Software Development Software at SourceForge. Free, secure and fast Software Development Software downloads from the largest Open Source applications and software directory",
+        "dateLastCrawled":"2020-12-07T08:08:00.0000000Z",
+        "fixedPosition":false,
+        "language":"en",
+        "isNavigational":false
+      },
+      {
+        "id":"https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name":"Software Development Online Courses | Coursera",
+        "url":"https://www.coursera.org/browse/computer-science/software-development",
+        "urlPingSuffix":"DevEx,5147.1",
+        "isFamilyFriendly":true,
+        "displayUrl":"https://www.coursera.org/browse/computer-science/software-development",
+        "snippet":"Software development encompasses all of the activities required for software design, deployment, maintenance, and support. Every video game, mobile app, and work-related computer program you’ve ever used goes through this process. Software development starts by working with users and other stakeholders to determine what the software needs to do.",
+        "dateLastCrawled":"2020-12-06T05:24:00.0000000Z",
+        "openGraphImage":{
+          "contentUrl":"https://s3.amazonaws.com/coursera/media/Partner_Logos.png",
+          "width":0,
+          "height":0
+        },
+        "fixedPosition":false,
+        "language":"en",
+        "isNavigational":false
+      },
+      {
+        "id":"https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name":"What is Software Development? - Definition from Techopedia",
+        "url":"https://www.techopedia.com/definition/16431/software-development",
+        "urlPingSuffix":"DevEx,5161.1",
+        "datePublished":"2017-12-12T00:00:00.0000000",
+        "datePublishedDisplayText":"12/12/2017",
+        "isFamilyFriendly":true,
+        "displayUrl":"https://www.techopedia.com/definition/16431",
+        "snippet":"Software development is primarily achieved through computer programming, which is carried out by a software programmer and includes processes such as initial research, data flow design, process flow design, flow charts, technical documentation, software testing, debugging and other software architecture techniques.",
+        "dateLastCrawled":"2020-12-07T23:19:00.0000000Z",
+        "openGraphImage":{
+          "contentUrl":"http://www.techopedia.com/resource/images/favicon/favicon-200x200.png",
+          "width":0,
+          "height":0
+        },
+        "fixedPosition":false,
+        "language":"en",
+        "isNavigational":false
+      },
+      {
+        "id":"https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name":"Learn IT: Software development - Reference from WhatIs.com",
+        "url":"https://whatis.techtarget.com/reference/Learn-IT-Software-development",
+        "urlPingSuffix":"DevEx,5175.1",
+        "isFamilyFriendly":true,
+        "displayUrl":"https://whatis.techtarget.com/reference/Learn-IT-Software-development",
+        "snippet":"Software development is the process of developing software through successive phases in an orderly way. This process includes not only the actual writing of code but also the preparation of requirements and objectives, the design of what is to be coded, and confirmation that what is developed has met objectives.",
+        "dateLastCrawled":"2020-12-07T07:35:00.0000000Z",
+        "openGraphImage":{
+          "contentUrl":"https://cdn.ttgtmedia.com/ITKE/images/logos/TTlogo-379x201.png",
+          "width":0,
+          "height":0
+        },
+        "fixedPosition":false,
+        "language":"en",
+        "isNavigational":false
+      },
+      {
+        "id":"https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name":"21 Best Software Development Tools in 2020",
+        "url":"https://www.guru99.com/software-development-tools.html",
+        "urlPingSuffix":"DevEx,5187.1",
+        "isFamilyFriendly":true,
+        "displayUrl":"https://www.guru99.com/software-development-tools.html",
+        "snippet":"This software development tool eliminates the need for installation & configuration. It also takes out many operational risks in the software development process; It is a friendly web interface lets configure deployments efficiently and painlessly; It supports a broad range operating systems including Linux, Windows, Mac OS X, Solaris, etc.",
+        "dateLastCrawled":"2020-12-07T05:08:00.0000000Z",
+        "fixedPosition":false,
+        "language":"en",
+        "isNavigational":false
+      },
+      {
+        "id":"https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name":"9 Top Software Development Trends for 2020",
+        "url":"https://www.standardfirms.com/top-software-development-trends/",
+        "urlPingSuffix":"DevEx,5200.1",
+        "isFamilyFriendly":true,
+        "displayUrl":"https://www.standardfirms.com/top-software-development-trends",
+        "snippet":"Software development is a significant part of the IT industry. You need to start using a futuristic approach and use top software development trends in the mainstream of your business operations. In this article, we discuss the top 9 software development trends you should follow in 2020 to stay ahead over your competitors.",
+        "dateLastCrawled":"2020-12-07T17:13:00.0000000Z",
+        "openGraphImage":{
+          "contentUrl":"https://www.standardfirms.com/wp-content/uploads/2019/10/software-trends.jpg",
+          "width":617,
+          "height":334
+        },
+        "fixedPosition":false,
+        "language":"en",
+        "isNavigational":false
+      }
+    ]
+  }
+}

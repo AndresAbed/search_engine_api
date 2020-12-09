@@ -1,0 +1,12 @@
+development:
+  google_url: "https://www.googleapis.com/customsearch/v1"
+  google_access_key: "AIzaSyCQptihCf3RI6ng-JvUWBAtZAtJdor_238"
+  google_cx: "c1545b3d527dc907d"
+
+  bing_url: "https://api.bing.microsoft.com/v7.0/custom/search"
+  bing_key: "a4ced37402dc402998c96209693fa3dc"
+  bing_customconfig: "5b365870-3c9f-49ab-8402-8b7778ce5113"
+
+test:
+  google_url: "https://www.googleapis.com/customsearch/v1?cx=&key=&q=search"
+  bing_url: "https://api.bing.microsoft.com/v7.0/custom/search?customconfig=&q=search"
